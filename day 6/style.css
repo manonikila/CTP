@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background-color: #000; /* to match dark theme around the image */
+}
+
+.container {
+  background-color: #6ea0e6;
+  color: white;
+  padding: 50px;
+  height: 100vh;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  font-size: 2.5em;
+  font-weight: bold;
+}
+
+.color {
+  color: orangered;
+  font-size: 1.2em;
+  margin: 20px 0;
+}
+
+.font-size {
+  font-size: 4em;
+  font-weight: normal;
+  margin: 30px 0;
+}
+
+.font-weight {
+  font-weight: bold;
+  font-size: 1.3em;
+  margin: 20px 0;
+}
+
+.font-family {
+  font-family: cursive;
+  font-style: italic;
+  margin: 20px 0;
+}
+
+.text-align {
+  text-align: right;
+  margin-top: 40px;
+}
